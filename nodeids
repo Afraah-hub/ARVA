@@ -1,0 +1,9 @@
+[
+  "app/tests/test_engine.py::test_crop_water_demand",
+  "app/tests/test_engine.py::test_daily_soil_water_balance",
+  "app/tests/test_engine.py::test_effective_rainfall",
+  "app/tests/test_engine.py::test_evaluate_zone_recommendation",
+  "app/tests/test_engine.py::test_gross_tank_withdrawal",
+  "app/tests/test_engine.py::test_soil_water_capacity",
+  "app/tests/test_engine.py::test_stage_kc"
+]
